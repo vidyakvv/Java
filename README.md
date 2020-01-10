@@ -1,2 +1,2 @@
 # Java 
-Repo consists of the all projects that were used during the java learning session
+This Repo consists of hackerrank and leetcode problem solution during the java learning session
